@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  font-size: 3em;
+  font-family: "Jost", sans-serif;
+  margin-top: 50px;
+  width: "100%";
+}
+
+.inside {
+  font-size: 1.5em;
+  font-family: "Jost", sans-serif;
+  width: 800px;
+  margin: 0 auto;
+  text-align: justify;
+  text-justify: inter-word;
+}
+a {
+  margin-left: 4px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .container {
+    text-align: center;
+    font-size: 3em;
+    font-family: "Jost", sans-serif;
+    margin-top: 50px;
+    width: "100%";
+  }
+  .inside {
+    font-size: 1.5em;
+    font-family: "Jost", sans-serif;
+    width: 100%;
+    margin: 0 auto;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-right: 3px;
+  }
+}
