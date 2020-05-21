@@ -15,28 +15,28 @@ class App extends React.Component {
         <Container fluid="md" className="inside">
           <Row>
             <Col md="6">
-              Hi everyone welcome to my blog, my name is Farhan Khalifa Ibrahim.
-              I will be sharing about books and software engineer in here. I am
-              still a newbie in many things around software engineer that is why
-              I would like to invite you to have slack group for us to discuss
-              about software engineer, you can share informations or ask
-              questions. This group will be focusing on 5 aspects (Frontend,
-              Backend, Mobile, Data Structure and Algorithm, System Design). If
-              you are interested you can fill the form in
+              Hi everyone welcomes to my blog, my name is Farhan Khalifa
+              Ibrahim. I will be sharing about books and software engineer here.
+              I am still a newbie in many things around software engineer that
+              is why I would like to invite you to have a slack group for us to
+              discuss software engineer, you can share information or ask
+              questions. This group will be focusing on five aspects (Frontend,
+              Backend, Mobile Development, Data Structures and Algorithm, System
+              Design). If you are interested, you can fill the form in
               <a href="https://forms.gle/qZMRF3JwDs7J9rih8">here</a>. I will
               only invite you if I know you personally, or you are a friend of
-              my friend (This is to prevent any toxic members).
+              my friend (This is to prevent any toxic members). I will not
+              accept randomly, although we know each other.
               <br />
-              <br />
-              The reason why I want to have a group is that because I believe
-              that everyone has their strength in software engineer, and with
-              this group I hope that you can find a master who understands very
-              well about your questions. from my own personal problem, I have a
-              very close mentor who already experienced in programming for
-              almost four years, and still there are many things he doesn't know
-              about usually because the stack he use is different from my
-              question. Also for me, I am more comfortable to ask a person if I
-              know him very well or else I would better ask in a forum.
+              <br />I want to have a group because I believe that everyone has
+              their own strength in software engineering, and with this group, I
+              hope you can find a friend who understands your questions very
+              well. From my own personal problem, I have a very close mentor who
+              already experienced in programming for almost four years. Still,
+              there are many things he doesn't know about usually because the
+              stack he uses is different from my questions. Also, I am more
+              comfortable asking a person if I know him very well, or else I
+              would better ask in a forum.
             </Col>
           </Row>
         </Container>
