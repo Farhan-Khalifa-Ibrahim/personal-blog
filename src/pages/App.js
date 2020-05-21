@@ -16,13 +16,13 @@ class App extends React.Component {
           <Row>
             <Col md="6">
               Hi everyone welcome to my blog, my name is Farhan Khalifa Ibrahim.
-              I will be sharing about books and software in here. I am still a
-              newbie in many things around software engineer that is why I would
-              like to invite you to have slack group for us to discuss about
-              software engineer, you can share informations or ask questions.
-              This group will be focusing on 5 aspects (Frontend, Backend,
-              Mobile, Data Structure and Algorithm, System Design). If you are
-              interested you can fill the form in
+              I will be sharing about books and software engineer in here. I am
+              still a newbie in many things around software engineer that is why
+              I would like to invite you to have slack group for us to discuss
+              about software engineer, you can share informations or ask
+              questions. This group will be focusing on 5 aspects (Frontend,
+              Backend, Mobile, Data Structure and Algorithm, System Design). If
+              you are interested you can fill the form in
               <a href="https://forms.gle/qZMRF3JwDs7J9rih8">here</a>. I will
               only invite you if I know you personally, or you are a friend of
               my friend (This is to prevent any toxic members).
