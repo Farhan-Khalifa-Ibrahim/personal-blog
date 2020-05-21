@@ -15,7 +15,7 @@ class App extends React.Component {
         <Container fluid="md" className="inside">
           <Row>
             <Col md="6">
-              Hi everyone welcome to my blog,my name is Farhan Khalifa Ibrahim.
+              Hi everyone welcome to my blog, my name is Farhan Khalifa Ibrahim.
               I will be sharing about books and software in here. I am still a
               newbie in many things around software engineer that is why I would
               like to invite you to have slack group for us to discuss about
