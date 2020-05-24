@@ -23,8 +23,7 @@ class App extends React.Component {
               This group will be focusing on five aspects (Frontend, Backend,
               Mobile Development, Data Structures and Algorithm, System Design).
               If you are interested, you can fill the form in
-              <a href="https://forms.gle/qZMRF3JwDs7J9rih8">here</a>. I will not
-              accept randomly, although we know each other.
+              <a href="https://forms.gle/qZMRF3JwDs7J9rih8">here</a>.
               <br />
               <br />I want to have a group because I believe that everyone has
               their own strength in software engineering, and with this group, I
